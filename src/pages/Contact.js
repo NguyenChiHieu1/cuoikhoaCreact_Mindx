@@ -72,8 +72,7 @@ const Contact = () => {
                       <li className="mb-3 d-flex gap-15 align-items-center">
                         <AiOutlineHome className="fs-5" />
                         <address className="mb-0">
-                          Hn0:277 , Near village chopal, Mandaura, Sonipat, 
-                          Haryana
+                          Văn Quán, Hà Đông, Hà Nội
                         </address>
                       </li>
                       <li className="mb-3 d-flex gap-15 align-items-center">

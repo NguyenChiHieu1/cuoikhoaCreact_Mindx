@@ -38,7 +38,7 @@ const Footer = () => {
               <h4 className="text-white mb-4">Contact US</h4>
               <div>
                 <address className="text-white fs-6">
-                  Hno :277 Near Vill chopal, <br /> Sonipat, Haryana <br />
+                Văn Quán, Hà Đông, Hà Nội <br />
                   PinCode: 131103
                 </address>
                 <a
